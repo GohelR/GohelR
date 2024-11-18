@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I'm [Gohel Ravi]
-- 🎓 ICT Student, currently in my 4th semester
-- 🌱 I'm passionate about technology and software development
+- 🎓 ICT Student, currently in my 5th semester
+- 🌱 I'm passionate about technology and software development and AI & ML 
 - 💻 Currently learning and working on various projects
 - 📫 You can reach me at [ Ravi.n.gohel811@gmail.com]
 
