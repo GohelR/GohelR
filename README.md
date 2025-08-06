@@ -1,10 +1,10 @@
 ## About Me
 
-- 👋 Hi, I'm [Gohel Ravi]
-- 🎓 ICT Student, currently in my 6th semester in diploma
-- 🌱 I'm passionate about technology and software development and AI & ML 
-- 💻 Currently learning and working on various projects
-- 📫 You can reach me at [ ravi.n.gohel811@gmail.com]
+👋 Hi, I'm Gohel Ravi
+🎓 Currently pursuing B.Tech in CSE (AI & ML), previously completed 6 semesters of Diploma in ICT
+🌱 Passionate about technology, software development, and Artificial Intelligence & Machine Learning
+💻 Actively working on various hands-on projects and continuously learning new skills
+📫 Reach me at: ravi.n.gohel811@gmail.com
 
 Let's connect and collaborate on exciting projects!
 
